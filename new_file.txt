@@ -1,1 +1,2 @@
 This is new repo text file.
+This is new for branch_2.
